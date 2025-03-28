@@ -1,3 +1,13 @@
+> ## 🚨 Important Notice
+>
+> This repository is a clone of the
+> [Type Transformations Workshop](https://www.totaltypescript.com/workshops/type-transformations/inference-basics/type-transformations-workshop-welcome)
+> by Matt Pocock. It has been published solely to document my GitHub activity
+> and for personal educational purposes.
+>
+> **Note:** This is not an official fork or a maintained derivative of the
+> original project.
+
 <a href="https://totaltypescript.com"><img src="./og-image-new.png" /></a>
 
 ## Quickstart
