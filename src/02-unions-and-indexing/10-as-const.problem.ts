@@ -1,9 +1,5 @@
 import { Equal, Expect } from '../helpers/type-utils';
 
-/**
- * Some docs that might help!
- * https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions
- */
 export const programModeEnumMap = {
 	GROUP: 'group',
 	ANNOUNCEMENT: 'announcement',
